@@ -47,16 +47,16 @@ features                                  :
     fontawesome_icon_name                 : mobile-alt
 
   - title                                 : Folders
-    description                           : Organize your widgets into folders and stay on top of your numbers
+    description                           : Organize your widgets into folders and stay on top of your numbers.
     fontawesome_icon_name                 : folder-open
 
   - title                                 : Style
-    description                           : Give your widgets unique styles and create a beautiful collection
+    description                           : Give your widgets unique styles and create a beautiful collection.
     fontawesome_icon_name                 : palette
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Contributions
+    description                           : Have an idea or suggestion? Drop a line at ideas@numberry.app, we're just a message away!
+    fontawesome_icon_name                 : lightbulb
 
 
 
