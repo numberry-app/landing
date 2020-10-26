@@ -54,9 +54,9 @@ features                                  :
     description                           : Give your widgets unique styles and create a beautiful collection.
     fontawesome_icon_name                 : palette
 
-  - title                                 : Contributions
-    description                           : Have an idea? Drop a line at ideas@numberry.app!
-    fontawesome_icon_name                 : lightbulb
+  - title                                 : Community
+    description                           : Have an idea? Drop a line at ideas@numberry.app and it can be turned into reality.
+    fontawesome_icon_name                 : user-alt
 
 
 
