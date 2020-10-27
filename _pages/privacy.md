@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-October 27 2020
+October 27, 2020
 
 # Privacy Policy
 Your privacy is critically important to us. Your data is your own. We make no claims to it and will only use it according to the policies outlined below. If you have questions about deleting or correcting your personal data please contact us at <a href="mailto:support@numberry.app">support@numberry.app</a>.
