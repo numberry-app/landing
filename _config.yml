@@ -20,12 +20,12 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Vlad Mosko                                
-your_link                                 : https://github.com/totsamyzed               
+your_link                                 : https://twitter.com/totsamyded               
 your_city                                 : Belarus                                
 email_address                             : vlad@numberry.app
 facebook_username                         :                                           
 instagram_username                        : # ebaehr
-twitter_username                          : # ebaehr
+twitter_username                          : totsamyded
 github_username                           : totsamyzed
 youtube_username                          :
 
@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : hammer
 
   - title                                 : Home screen
-    description                           : Add your widgets directly on your home screen to keep your numbers at hand.
+    description                           : Add your widgets directly on your home screen to keep an eye on your numbers.
     fontawesome_icon_name                 : mobile-alt
 
   - title                                 : Folders
@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : folder-open
 
   - title                                 : Style
-    description                           : Give your widgets unique styles and create a beautiful collection.
+    description                           : Give your widgets unique styles and with a wide range of customization options.
     fontawesome_icon_name                 : palette
 
   - title                                 : Community
